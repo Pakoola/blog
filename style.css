@@ -1,0 +1,13 @@
+.nav-item {
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 5px 15px 5px 15px;
+}
+
+
+.container{
+    background-color: lightgrey;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+}
